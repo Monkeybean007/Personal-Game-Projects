@@ -1111,3 +1111,69 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.08.14-20.27.12:463][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms
 [2023.08.14-20.27.12:472][103]AssetCheck: New page: Asset Save: Main
 [2023.08.14-20.27.12:472][103]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.08.14-20.41.37:773][157]Cmd: POLY SELECT ADJACENT WALLS
+[2023.08.14-20.48.07:841][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2023.08.14-20.48.07:841][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Developers/monke/Collections/' because it could not be accessed. Aborting watch request...
+[2023.08.14-20.48.07:841][ 12]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2023.08.14-20.50.27:889][806]LogBlueprint: Warning: [AssetLog] C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2023.08.14-20.50.27:890][806]LogBlueprint: Warning: [AssetLog] C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Content\SCK_Casual01\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2023.08.14-20.50.27:946][806]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2023.08.14-20.50.27:970][806]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2023.08.14-20.50.27:970][806]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.08.14-20.50.27:979][806]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Textures/UE4Man_Logo_N.UE4Man_Logo_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.08.14-20.50.27:980][806]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.08.14-20.50.27:982][806]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.08.14-20.50.28:087][806]LogTexture: Display: Building textures: /Game/SCK_Casual01/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.08.14-20.50.28:089][806]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/SCK_Casual01/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2023.08.14-20.50.28:099][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.08.14-20.50.28:099][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.08.14-20.50.28:115][806]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.08.14-20.50.28:120][806]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_0
+[2023.08.14-20.50.28:131][806]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.14-20.50.28:145][806]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2023.08.14-20.50.28:147][806]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2023.08.14-20.50.28:399][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2023.08.14-20.50.28:404][808]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2023.08.14-20.50.28:632][815]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SCK_Casual01/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2023.08.14-20.50.29:666][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.08.14-20.50.29:667][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2023.08.14-20.50.29:682][866]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.08.14-20.50.29:687][866]LogActorFactory: Actor Factory spawned Blueprint /Game/SCK_Casual01/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter as actor: ThirdPersonCharacter_C /Game/Main.Main:PersistentLevel.ThirdPersonCharacter_C_1
+[2023.08.14-20.50.30:145][867]LogViewport: Scene viewport resized to 600x338, mode Windowed.
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: ================================================
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Total job queries 106, among them cache hits 7 (6.60%)
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 64 distinct outputs (76.19%)
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: RAM used: 0.53 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 2.39 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Job execution time: average 2.37 s, max 2.37 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Job life time (pending + execution): average 2.40 s, max 2.40
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.40 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Average processing rate: 0.42 jobs/sec
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Total thread time: 0.80 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Total thread preprocess time: 0.09 s
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Percentage time preprocessing: 11.54%
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Effective parallelization: 0.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2023.08.14-20.50.30:598][870]LogShaderCompilers: Display: ================================================
+[2023.08.14-20.51.10:862][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.08.14-20.51.11:000][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2023.08.14-20.51.11:000][332]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Main_Auto1B60E877043DF85432DF559A41662415D.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap'
+[2023.08.14-20.51.11:011][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.166
+[2023.08.14-20.51.11:011][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.166
+[2023.08.14-20.51.32:099][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.14-20.51.32:220][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.14-20.51.32:412][424]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.14-20.51.32:413][424]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Main2CA9DB844E7F42CB4D9F6D9F53FAEA83.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap'
+[2023.08.14-20.51.32:451][424]LogFileHelpers: Saving map 'Main' took 0.247
+[2023.08.14-20.51.32:478][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 379 ms (total: 656 ms)
+[2023.08.14-20.51.32:487][424]AssetCheck: New page: Asset Save: Main
+[2023.08.14-20.51.32:487][424]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
