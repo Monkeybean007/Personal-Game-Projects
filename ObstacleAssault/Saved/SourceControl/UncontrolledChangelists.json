@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap"
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap",
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/ThirdPersonCharacter_Blueprint.uasset",
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset"
 			]
 		}
 	]
