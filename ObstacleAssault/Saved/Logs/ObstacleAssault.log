@@ -1980,3 +1980,122 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.08.15-18.13.04:528][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.08.15-18.13.04:532][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2023.08.15-18.13.04:579][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.08.15-18.15.14:272][583]LogDerivedDataCache: C:/Users/monke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.378 and deleted 0 files with total size 0 MiB. Scanned 13276 files in 13048 folders with total size 1538 MiB.
+[2023.08.15-18.27.27:745][823]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.08.15-18.27.38:029][297]LogLiveCoding: Display:    Creating library C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_17.lib and object C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_17.exp
+[2023.08.15-18.27.38:903][311]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.08.15-18.27.38:903][311]LogClass: UClass MovingPlatform Reload.
+[2023.08.15-18.27.38:903][311]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.08.15-18.27.38:939][311]Re-instancing MovingPlatform after reload.
+[2023.08.15-18.27.39:079][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.08.15-18.27.39:158][312]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.08.15-18.27.39:158][312]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.08.15-18.27.45:701][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.15-18.27.45:712][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.15-18.27.45:712][403]PIE: New page: PIE session: Main (Aug 15, 2023, 6:27:45 AM)
+[2023.08.15-18.27.45:712][403]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.08.15-18.27.45:768][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056125s)
+[2023.08.15-18.27.45:768][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.056164s)
+[2023.08.15-18.27.45:768][403]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.08.15-18.27.45:769][403]LogAIModule: Creating AISystem for world Main
+[2023.08.15-18.27.45:770][403]LogPlayLevel: PIE: World Init took: (0.001560s)
+[2023.08.15-18.27.45:784][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.08.15-18.27.45:785][403]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.15-18.27.45:785][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.15-18.27.45:785][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.15-18.27.45:786][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.15-18.27.45:786][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.15-18.27.45:786][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.15-18.27.45:789][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.15-18.27.45:852][403]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.15-18.27.45:852][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.15-18.27.45:852][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.15-18.27.45:852][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.15-18.27.45:852][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.08.15-18.27.45:852][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.08.15-18.27.45:855][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.08.15-18.27.45:855][403]LogInit: FAudioDevice initialized.
+[2023.08.15-18.27.45:855][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.08.15-18.27.45:855][403]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main'.
+[2023.08.15-18.27.45:858][403]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.08.15-18.27.45:877][403]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.08.15-12.27.45
+[2023.08.15-18.27.49:172][403]LogWorld: Bringing up level for play took: 3.313606
+[2023.08.15-18.27.49:174][403]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.08.15-18.27.49:176][403]PIE: Server logged in
+[2023.08.15-18.27.49:177][403]PIE: Play in editor total start time 3.465 seconds.
+[2023.08.15-18.27.51:738][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.15-18.27.51:738][502]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.08.15-18.27.51:738][502]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.15-18.27.51:740][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.15-18.27.51:745][502]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.15-18.27.51:750][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.15-18.27.51:763][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.15-18.27.51:764][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.08.15-18.27.51:766][502]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.08.15-18.27.51:775][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.15-18.27.51:780][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.15-18.27.51:843][503]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.08.15-18.27.53:620][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.15-18.27.53:634][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.15-18.27.53:635][578]PIE: New page: PIE session: Main (Aug 15, 2023, 6:27:53 AM)
+[2023.08.15-18.27.53:635][578]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2023.08.15-18.27.53:673][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037868s)
+[2023.08.15-18.27.53:673][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.037972s)
+[2023.08.15-18.27.53:673][578]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2023.08.15-18.27.53:673][578]LogAIModule: Creating AISystem for world Main
+[2023.08.15-18.27.53:674][578]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2023.08.15-18.27.53:687][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.08.15-18.27.53:688][578]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.15-18.27.53:688][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.15-18.27.53:688][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.15-18.27.53:688][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.15-18.27.53:688][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.15-18.27.53:689][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.15-18.27.53:691][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.15-18.27.53:746][578]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2023.08.15-18.27.53:747][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.15-18.27.53:747][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.15-18.27.53:747][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.15-18.27.53:747][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.08.15-18.27.53:747][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.08.15-18.27.53:750][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.08.15-18.27.53:750][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.08.15-18.27.53:750][578]LogInit: FAudioDevice initialized.
+[2023.08.15-18.27.53:750][578]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main'.
+[2023.08.15-18.27.53:753][578]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2023.08.15-18.27.53:771][578]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2023.08.15-12.27.53
+[2023.08.15-18.27.56:983][578]LogWorld: Bringing up level for play took: 3.229291
+[2023.08.15-18.27.56:986][578]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.08.15-18.27.56:987][578]PIE: Server logged in
+[2023.08.15-18.27.56:988][578]PIE: Play in editor total start time 3.354 seconds.
+[2023.08.15-18.28.06:208][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.15-18.28.06:208][ 80]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2023.08.15-18.28.06:208][ 80]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.08.15-18.28.06:211][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.15-18.28.06:215][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.15-18.28.06:218][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.15-18.28.06:233][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.15-18.28.06:236][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.15-18.28.06:239][ 80]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.08.15-18.28.06:251][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.08.15-18.28.06:317][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.08.15-18.28.17:285][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-18.28.17:400][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.08.15-18.28.17:563][701]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.15-18.28.17:565][701]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Main8459DBA7447DACFB29737DA6EA7F6640.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap'
+[2023.08.15-18.28.17:600][701]LogFileHelpers: Saving map 'Main' took 0.216
+[2023.08.15-18.28.17:611][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 2.50 sec)
+[2023.08.15-18.28.17:625][701]AssetCheck: New page: Asset Save: Main
+[2023.08.15-18.28.17:625][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
