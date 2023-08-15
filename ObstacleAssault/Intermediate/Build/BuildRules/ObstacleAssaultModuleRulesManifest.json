@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\monke\\OneDrive\\Desktop\\GameProjects2\\Personal-Game-Projects\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"C:\\Users\\monke\\OneDrive\\Desktop\\GameProjects2\\Personal-Game-Projects\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"C:\\Users\\monke\\OneDrive\\Desktop\\GameProjects2\\Personal-Game-Projects\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
