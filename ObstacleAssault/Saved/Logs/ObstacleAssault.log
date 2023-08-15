@@ -2099,3 +2099,37 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.08.15-18.28.17:611][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 325 ms (total: 2.50 sec)
 [2023.08.15-18.28.17:625][701]AssetCheck: New page: Asset Save: Main
 [2023.08.15-18.28.17:625][701]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.08.15-19.06.30:586][665]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2023.08.15-19.06.30:610][665]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28056
+[2023.08.15-19.07.58:519][668]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-86339ms], ThreadID=28056
+[2023.08.15-19.08.01:962][668]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [91361ms] waiting for h/w. InstanceID=1
+[2023.08.15-19.08.02:376][668]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7268aaa3-8b60-40ff-8f5d-10b8eef52bf7}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=89857.70
+[2023.08.15-19.08.02:376][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.15-19.08.02:381][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.15-19.08.02:654][669]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=28056
+[2023.08.15-19.08.02:988][670]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7268aaa3-8b60-40ff-8f5d-10b8eef52bf7}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=215.48
+[2023.08.15-19.08.02:988][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.08.15-19.08.02:990][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.08.15-19.16.40:554][223]LogDerivedDataCache: C:/Users/monke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.309 and deleted 0 files with total size 0 MiB. Scanned 13276 files in 13048 folders with total size 1538 MiB.
+[2023.08.15-20.16.41:369][ 23]LogDerivedDataCache: C:/Users/monke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.123 and deleted 0 files with total size 0 MiB. Scanned 13276 files in 13048 folders with total size 1538 MiB.
+[2023.08.15-20.45.33:200][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-20.45.33:287][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.15-20.45.33:526][271]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.15-20.45.33:528][271]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/MainC2F92C0646849880E85D4092829A2A0B.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap'
+[2023.08.15-20.45.33:558][271]LogFileHelpers: Saving map 'Main' took 0.288
+[2023.08.15-20.45.33:566][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 365 ms (total: 2.87 sec)
+[2023.08.15-20.45.33:579][271]AssetCheck: New page: Asset Save: Main
+[2023.08.15-20.45.33:579][271]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.08.15-20.45.35:886][390]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.08.15-20.45.41:021][624]LogLiveCoding: Display:    Creating library C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_18.lib and object C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_18.exp
+[2023.08.15-20.45.41:726][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.08.15-20.45.41:768][627]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2023.08.15-20.45.41:768][627]LogLiveCoding: Display: Live coding succeeded
+[2023.08.15-20.46.00:223][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-20.46.00:293][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.15-20.46.00:439][841]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.15-20.46.00:440][841]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Main9C2B07FC4A68F47EF8D6F893DD3D006C.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap'
+[2023.08.15-20.46.00:470][841]LogFileHelpers: Saving map 'Main' took 0.191
+[2023.08.15-20.46.00:483][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 3.13 sec)
+[2023.08.15-20.46.00:491][841]AssetCheck: New page: Asset Save: Main
+[2023.08.15-20.46.00:491][841]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
