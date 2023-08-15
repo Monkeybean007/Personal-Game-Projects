@@ -1735,3 +1735,11 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.08.15-17.41.34:636][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 1.48 sec)
 [2023.08.15-17.41.34:649][880]AssetCheck: New page: Asset Save: Main
 [2023.08.15-17.41.34:649][880]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
+[2023.08.15-17.45.26:823][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.15-17.45.26:926][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.15-17.45.27:101][624]LogSavePackage: Moving output files for package: /Game/Main
+[2023.08.15-17.45.27:102][624]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/MainCE1B6C9C47D37872247C829C7DF797F5.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap'
+[2023.08.15-17.45.27:134][624]LogFileHelpers: Saving map 'Main' took 0.221
+[2023.08.15-17.45.27:143][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 320 ms (total: 1.81 sec)
+[2023.08.15-17.45.27:156][624]AssetCheck: New page: Asset Save: Main
+[2023.08.15-17.45.27:156][624]LogContentValidation: Display: Validating /Script/Engine.World /Game/Main.Main
