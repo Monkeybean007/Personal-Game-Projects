@@ -1130,3 +1130,32 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.08.15-14.25.12:742][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
 [2023.08.15-14.25.12:776][417]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2023.08.15-14.25.17:927][808]LogSlate: Took 0.005975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.08.15-15.01.52:892][271]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.08.15-15.02.08:867][593]LogLiveCoding: Display:    Creating library C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.lib and object C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_0.exp
+[2023.08.15-15.02.10:135][597]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.08.15-15.02.10:135][597]LogClass: UClass MovingPlatform Reload.
+[2023.08.15-15.02.10:136][597]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.08.15-15.02.10:168][597]Re-instancing MovingPlatform after reload.
+[2023.08.15-15.02.10:407][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.08.15-15.02.10:437][598]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.08.15-15.02.10:437][598]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.08.15-15.06.23:640][574]LogLiveCoding: Display: Starting Live Coding compile.
+[2023.08.15-15.06.32:458][836]LogLiveCoding: Display:    Creating library C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.lib and object C:\Users\monke\OneDrive\Desktop\GameProjects2\Personal-Game-Projects\ObstacleAssault\Binaries\Win64\UnrealEditor-ObstacleAssault.patch_1.exp
+[2023.08.15-15.06.33:336][839]LogClass: UPackage /Script/ObstacleAssault Reload.
+[2023.08.15-15.06.33:336][839]LogClass: UClass MovingPlatform Reload.
+[2023.08.15-15.06.33:336][839]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleAssault for reload, assuming new or modified class
+[2023.08.15-15.06.33:368][839]Re-instancing MovingPlatform after reload.
+[2023.08.15-15.06.33:450][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.08.15-15.06.33:545][840]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2023.08.15-15.06.33:545][840]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2023.08.15-15.07.42:617][750]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.15-15.07.42:618][750]LogEditor: Attempting to add actor of class 'MovingPlatform' to level at -14230.00,-2070.00,3960.00
+[2023.08.15-15.07.43:392][784]LogEditor: Attempting to add actor of class 'MovingPlatform' to level at -13980.00,-2140.00,3960.00
+[2023.08.15-15.08.14:289][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.08.15-15.08.14:319][155]LogPackageLocalizationCache: Processed 40 localized package path(s) for 1 prioritized culture(s) in 0.020263 seconds
+[2023.08.15-15.08.14:408][155]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.15-15.08.14:572][155]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2023.08.15-15.08.14:574][155]LogSavePackage: Moving '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Main_Auto1CF8FADFE45328A5EDA20DF91B146C357.tmp' to '../../../../../../Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Saved/Autosaves/Game/Main_Auto1.umap'
+[2023.08.15-15.08.14:595][155]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.324
+[2023.08.15-15.08.14:596][155]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.324
+[2023.08.15-15.13.19:300][ 70]LogDerivedDataCache: C:/Users/monke/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:25.423 and deleted 0 files with total size 0 MiB. Scanned 13272 files in 13044 folders with total size 1538 MiB.

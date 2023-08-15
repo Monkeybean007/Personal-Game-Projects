@@ -23,4 +23,14 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	UPROPERTY(EditAnywhere)
+	int32 MyInt = 99;
+
+	UPROPERTY(EditAnywhere)
+	float MyFloat = 9.99;
+
+	UPROPERTY(EditANywhere)
+	bool MyBool = true;
+
+
 };
