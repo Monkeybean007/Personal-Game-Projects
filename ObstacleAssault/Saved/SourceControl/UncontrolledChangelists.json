@@ -8,7 +8,9 @@
 				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/Main.umap",
 				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/ThirdPersonCharacter_Blueprint.uasset",
 				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
-				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset"
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/BP_PushingCube.uasset",
+				"C:/Users/monke/OneDrive/Desktop/GameProjects2/Personal-Game-Projects/ObstacleAssault/Content/BP_ObstacleAssualtGameMode.uasset"
 			]
 		}
 	]
